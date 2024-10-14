@@ -1,0 +1,100 @@
+.photo{
+    background-color: #224957 !important;
+    height: 35rem !important;
+  /* margin-left: 16rem !important; */
+  }
+  .bouton{
+    background-color: #20df7f !important;
+  }
+  .texte{
+    color: #224957;
+  }
+  .lien{
+    text-decoration: none;
+    color: #224957;
+  }
+  .liens{
+    text-decoration: none;
+    color: black;
+  }
+  #colFormLabelSm{
+    background-color: #224957 !important;
+  }
+  #colFormLabel{
+    background-color: #224957 !important;
+  }
+  ::placeholder{
+    color: #fff !important;
+  }
+  /* parti acceuill */
+  #side{
+    margin-left: -2.3rem;
+    /* width: 10rem; */
+  }
+  .link{
+    color: #fff;
+    text-decoration: none;
+  }
+  .navbar{
+    width: 100rem !important;
+    height: 4rem;
+  }
+  .progress-bar{
+    width: 55%;
+        background-color: #20df7f !important;
+
+  }
+.progress{
+    height: 6px !important;
+    width: 20rem;
+}
+.Ima{
+    height: 5rem;
+}
+.span{
+    margin-left: 16rem;
+}
+.color{
+  background-color: #20df7f !important;
+}
+.cart{
+  height: 18rem !important;
+}
+.heade {
+  background-color: #20df7f !important;
+}
+.status-validé{
+  color: #20df7f !important;
+
+}
+.barte{
+  width: 100%;
+  background-color: #20df7f !important;
+}
+.pro2{
+  width: 55%;
+  background-color: #224957 !important;
+}
+.largeure{
+  width: 5rem !important;
+}
+/* parti utilisateur */
+.cart1{
+  background-color: #20df7f !important;
+}
+.ajout{
+  background-color: #224957 !important;
+}
+#btn_ajou_membre{
+  background-color: #20df7f !important;
+  color: #224957;
+}
+.blue{
+  background-color: #224957 !important;
+}
+.li:hover{
+  background-color: #20df7f !important;
+}
+Link{
+  text-decoration: none;
+}
